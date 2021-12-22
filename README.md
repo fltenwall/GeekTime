@@ -1,6 +1,22 @@
 # GeekTime
 极客时间全部专栏/视频课程学习笔记📒  前端/移动 计算机基础 后端/架构 AI/大数据 运维/测试 产品/运营 管理/成长 人文/兴趣 面试专场 个人成长
 
+如果你有想尽快看到的专栏/课程笔记，欢迎👏🏻 issue 
+
+## 正在更新
+
+[Python核心技术与实战](https://github.com/fltenwall/GeekTime/blob/main/src/Python%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/%E5%9F%BA%E7%A1%80%E7%AF%87.md)
+
+## 即将更新
+
+全栈工程师修炼指南
+
+Django快速开发实战
+
+Node.js开发实战
+
+
+
 ## 大前端/移动
 
 全栈工程师修炼指南
