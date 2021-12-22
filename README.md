@@ -7,6 +7,8 @@
 
 [Python核心技术与实战](https://github.com/fltenwall/GeekTime/blob/main/src/Python%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E6%88%98/%E7%9B%AE%E5%BD%95.md)
 
+[程序员进阶攻略](https://github.com/fltenwall/GeekTime/blob/main/src/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BF%9B%E9%98%B6%E6%94%BB%E7%95%A5/%E7%9B%AE%E5%BD%95.md)
+
 ## 即将更新
 
 全栈工程师修炼指南
@@ -14,8 +16,6 @@
 Django快速开发实战
 
 Node.js开发实战
-
-程序员进阶攻略
 
 乔新亮的CTO成长复盘
 
